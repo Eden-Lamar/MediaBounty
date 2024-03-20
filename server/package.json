@@ -1,0 +1,27 @@
+{
+	"name": "mediabounty",
+	"version": "1.0.0",
+	"description": "ali express media downloader chrome extension",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon server.js",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Eden-Lamar/MediaBounty.git"
+	},
+	"keywords": [
+		"chrome",
+		"extension",
+		"ali",
+		"express"
+	],
+	"author": "Eden Lamar",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Eden-Lamar/MediaBounty/issues"
+	},
+	"homepage": "https://github.com/Eden-Lamar/MediaBounty#readme"
+}
